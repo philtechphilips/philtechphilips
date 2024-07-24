@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 👋, I'm Isola Pelumi Philp</h1>
-<h3 align="center">A passionate Fullstack Developer with over 3 years of hands-on experience. I possess a diverse skill set and have worked extensively with various technologies and tools to create efficient and dynamic web applications.</h3>
+<h3 align="center">A Security Inclined Software Engineer with over 4 years of hands-on experience. I possess a diverse skill set and have worked extensively with various technologies and tools to create efficient and dynamic web applications.</h3>
 
 - 🔭 I’m currently working on **building scalable web applications**
 
