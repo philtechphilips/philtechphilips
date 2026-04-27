@@ -1,25 +1,105 @@
-<h1 align="center">Howdy 👋, I'm Isola Pelumi Philp</h1>
-<h3 align="center">A Security Inclined Software Engineer with over 5 years of hands-on experience. I possess a diverse skill set and have worked extensively with various technologies and tools to create efficient and dynamic web applications.</h3>
+<h1 align="center">👋 Hi, I'm Isola Pelumi (Philp)</h1>
 
-- 🔭 I’m currently working on **building scalable web applications**
+<h3 align="center">
+🚀 Security-Inclined Software Engineer | Backend Specialist | 5+ Years Experience
+</h3>
 
-- 👯 I’m looking to collaborate on **great ideas**
-
-- 💬 Ask me about **Web application develeopment**
-
-- 📫 How to reach me **pelumiisola87@gmail.com**
-
-- ⚡ Fun fact **Im looking out for oppurtunities to code imaginations to live**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/philipsdcoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="philipsdcoda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/isola pelumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isola pelumi" height="30" width="40" /></a>
+<p align="center">
+I design and build scalable, secure, and high-performance web applications.<br/>
+Passionate about turning complex ideas into production-ready systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philtechphilips&show_icons=true&locale=en&layout=compact" alt="philtechphilips" /></p>
+## 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philtechphilips&show_icons=true&locale=en" alt="philtechphilips" /></p>
+- 🔭 Currently building **scalable & secure web applications**
+- 🛠️ Strong focus on **backend architecture & system design**
+- 🔐 Security-conscious engineer (auth, data protection, system integrity)
+- 🌍 Open to **international remote opportunities**
+- 🤝 Looking to collaborate on **impactful and challenging projects**
+- ⚡ Fun fact: *I enjoy turning ideas into real, working products*
+
+---
+
+## 🧰 Tech Stack
+
+### 👨‍💻 Core
+- **Backend:** Node.js, NestJS, Laravel
+- **Frontend:** React, Next.js, Vue
+- **Languages:** JavaScript, TypeScript, PHP, Python
+
+### 🗄️ Databases
+- PostgreSQL, MySQL, MongoDB, Redis
+
+### ⚙️ Tools & DevOps
+- Docker, CI/CD, Git, cPanel, Linux
+- MQTT, WebRTC, Real-time systems
+
+### 🎨 Others
+- Tailwind CSS, Bootstrap, Figma, Adobe XD
+
+---
+
+## 🔥 What I Bring
+
+- 🧩 Ability to design **scalable system architecture**
+- 🔐 Strong understanding of **authentication & security best practices**
+- ⚡ Experience building **real-time systems & APIs**
+- 🏗️ Clean, maintainable, and production-ready code
+- 📈 Focus on performance, reliability, and user experience
+
+---
+
+## 🚀 Featured Work (Add your best projects here)
+
+- 🧠 AI Budgeting App (Node.js + Stripe + OpenAI)
+- 📡 Real-time Attendance System (Face Recognition + Streaming)
+- 🔗 URL Shortener with OAuth Integrations
+- 📊 Multi-tenant SaaS Platforms
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://twitter.com/philipsdcoda" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+<a href="https://linkedin.com/in/isola-pelumi" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+</p>
+
+📧 Email: **pelumiisola87@gmail.com**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=philtechphilips&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=philtechphilips&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philtechphilips&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧭 Current Focus
+
+- Advanced **System Design & Architecture**
+- **Cloud Engineering & DevOps**
+- Building **scalable SaaS products**
+- Deep dive into **Web3 & distributed systems**
+
+---
+
+## 💡 Philosophy
+
+> "Great software is not just about working code — it's about scalability, security, and impact."
