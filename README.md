@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm Isola Pelumi (Philp)</h1>
 
 <h3 align="center">
-🚀 Security-Inclined Software Engineer | Backend Specialist | 5+ Years Experience
+Software Engineer | Backend Specialist | 6+ Years Experience
 </h3>
 
 <p align="center">
-I design and build scalable, secure, and high-performance web applications.<br/>
-Passionate about turning complex ideas into production-ready systems.
+I design and build scalable, secure, and high performance web applications.<br/>
+Passionate about turning complex ideas into production ready systems.
 </p>
 
 ---
