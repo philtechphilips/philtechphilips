@@ -1,220 +1,165 @@
-<h1 align="center">👋 Hi, I'm Isola Pelumi (Philp)</h1>
-
-<h3 align="center">Software Engineer • Backend Specialist • System Architect</h3>
+<h1 align="center">Hey, I'm Pelumi Isola 👋</h1>
 
 <p align="center">
-  I build scalable, secure, and high-performance software systems.<br/>
-  I enjoy turning complex business problems into reliable, production-ready products.
+  <strong>Software Engineer · Backend · Cloud · Systems</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/philtechphilips">
-    <img src="https://komarev.com/ghpvc/?username=philtechphilips&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  </a>
-</p>
-
----
-
-## 🧠 About Me
-
-I'm a Software Engineer with **6+ years of experience** building web applications, APIs, SaaS platforms, and backend systems.
-
-My primary focus is on **backend engineering, system architecture, scalability, security, and cloud infrastructure**.
-
-* 🔭 Building scalable and secure web applications
-* 🏗️ Designing backend architectures and distributed systems
-* 🔐 Focused on authentication, authorization, data protection, and application security
-* ⚡ Building high-performance APIs and real-time applications
-* ☁️ Exploring cloud engineering and DevOps
-* 🌍 Open to international and remote opportunities
-* 🤝 Interested in collaborating on challenging, impactful products
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,php" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel" />
-</p>
-
-* REST APIs
-* Authentication & Authorization
-* Microservices
-* Real-time systems
-* WebSockets
-* MQTT
-* WebRTC
-* API integrations
-* Multi-tenant architectures
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" />
-</p>
-
-### 🗄️ Databases & Caching
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
-
-### ☁️ DevOps & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,githubactions,aws" />
-</p>
-
-* Docker & containerization
-* CI/CD
-* Linux server administration
-* Nginx
-* Cloud infrastructure
-* Application monitoring
-* Deployment & production troubleshooting
-
----
-
-## 🚀 What I Build
-
-### 🏗️ Scalable Backend Systems
-
-Designing APIs and backend architectures that can handle growing users, traffic, and business requirements.
-
-### 🔐 Secure Applications
-
-Implementing secure authentication, authorization, data protection, API security, and access-control mechanisms.
-
-### ⚡ Real-Time Applications
-
-Building systems that require real-time communication, streaming, notifications, and live data updates.
-
-### ☁️ Cloud & DevOps
-
-Working with containers, cloud infrastructure, CI/CD pipelines, Linux servers, monitoring, and production deployments.
-
-### 🧩 SaaS Platforms
-
-Designing multi-tenant applications with proper data isolation, permissions, billing, integrations, and scalable architectures.
-
----
-
-## 🔥 Featured Projects
-
-### 💰 AI Budgeting Platform
-
-An intelligent budgeting application designed to help users understand and manage their finances.
-
-**Stack:** Node.js • TypeScript • PostgreSQL • Stripe • OpenAI
-
----
-
-### 📡 Real-Time Attendance System
-
-A real-time attendance platform combining face recognition, streaming, and backend processing.
-
-**Stack:** Node.js • WebRTC • Real-Time Communication • Computer Vision
-
----
-
-### 🔗 URL Shortener & OAuth Platform
-
-A scalable URL-shortening system with authentication and third-party OAuth integrations.
-
-**Stack:** Node.js • TypeScript • PostgreSQL • Redis • OAuth
-
----
-
-### 📊 Multi-Tenant SaaS Platforms
-
-Designing SaaS architectures supporting multiple organizations while maintaining proper data isolation, permissions, and scalability.
-
-**Stack:** Node.js • NestJS • PostgreSQL • Redis • Docker
-
----
-
-## 🧠 Engineering Principles
-
-I believe good software engineering goes beyond making something work.
-
-My approach focuses on:
-
-* 🏗️ **Architecture** — systems should be designed for change and growth
-* 🔐 **Security** — security should be considered from the beginning
-* ⚡ **Performance** — optimize the right bottlenecks
-* 📈 **Scalability** — design systems that can grow with the business
-* 🧹 **Maintainability** — code should be understandable and easy to evolve
-* 🧪 **Reliability** — production systems should be observable and resilient
-
-> **"Great software isn't just about working code — it's about scalability, security, reliability, and impact."**
-
----
-
-## 🧭 Currently Learning & Exploring
-
-* 🏗️ Advanced System Design & Architecture
-* ☁️ Cloud Engineering
-* ⚙️ DevOps & Infrastructure
-* ☸️ Kubernetes & Container Orchestration
-* 📊 Observability & Monitoring
-* 🌐 Distributed Systems
-* 🔗 Web3 & Blockchain Infrastructure
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=philtechphilips&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
+  I build secure, scalable and reliable software systems.
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=philtechphilips&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=philtechphilips&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <a href="https://www.pelumiisola.tech">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/isola-pelumi">LinkedIn</a>
+  ·
+  <a href="https://x.com/softwareengng">X</a>
+  ·
+  <a href="mailto:pelumiisola87@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## About
 
-<p align="left">
-  <a href="https://twitter.com/philipsdcoda">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/isola-pelumi">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-  </a>
-</p>
+I'm a software engineer focused on **backend development, system design, cloud infrastructure, and application security**.
 
-📧 **Email:** [pelumiisola87@gmail.com](mailto:pelumiisola87@gmail.com)
+I enjoy taking complex requirements and turning them into simple, maintainable systems — from APIs and databases to deployments and production infrastructure.
+
+I also enjoy building products, experimenting with new technologies, and sharing what I learn along the way.
 
 ---
 
+## Tech Stack
+
+**Languages**
+
+TypeScript · JavaScript · Python · PHP
+
+**Backend**
+
+Node.js · NestJS · Laravel · FastAPI
+
+**Frontend**
+
+React · Next.js · React Native · Tailwind CSS
+
+**Databases**
+
+PostgreSQL · MySQL · MongoDB · Redis · Supabase
+
+**Cloud & DevOps**
+
+AWS · Docker · Linux · Nginx · Terraform · GitHub Actions
+
+**Other**
+
+REST APIs · OAuth · Stripe · WebSockets · MQTT · WebRTC · CI/CD · System Design · Multi-tenancy
+
+---
+
+## What I Work On
+
+```text
+Backend Engineering
+API Design
+System Architecture
+Database Design
+Application Security
+Cloud Infrastructure
+DevOps & CI/CD
+Real-time Systems
+SaaS Platforms
+Third-party Integrations
+```
+
+---
+
+## Selected Projects
+
+### SynqDB
+
+A multi-database workspace for working with PostgreSQL, MySQL, MSSQL and SQLite from a single interface.
+
+`Next.js` `Node.js` `TypeScript` `PostgreSQL`
+
+### Offerra
+
+An AI-powered job search platform for managing applications, optimizing CVs, preparing for interviews and streamlining the job search process.
+
+`Next.js` `Node.js` `TypeScript`
+
+### Reyts
+
+A peer-to-peer currency exchange platform with real-time matching and automated transfers.
+
+`React` `Node.js` `Redis` `MongoDB`
+
+### Firacard
+
+A digital card platform with authentication, payments and notification services.
+
+`Node.js` `Express` `MongoDB`
+
+### Autofill AI
+
+A Chrome extension that uses AI to help users complete web forms more efficiently.
+
+`TypeScript` `Node.js` `Chrome Extension`
+
+[View more projects →](https://www.pelumiisola.tech)
+
+---
+
+## Experience
+
+**AB InBev**
+*Backend Developer*
+
+Working on enterprise backend systems, application reliability and scalable infrastructure.
+
+**Paxform**
+*Senior Software Engineer*
+
+Built third-party integrations, backend services, CI/CD workflows and application features.
+
+**Playa Music**
+*Software Engineer*
+
+Built backend APIs and AI-powered features for music generation, recommendations and personalization.
+
+**Xttreme Developers**
+*Full-Stack Developer*
+
+Built web applications, fintech systems and production platforms using Laravel, React, Node.js and related technologies.
+
+---
+
+## Currently Exploring
+
+☁️ Cloud Engineering
+🏗️ System Design
+⚙️ DevOps & Infrastructure
+🐳 Containers & Kubernetes
+🌐 Distributed Systems
+📊 Observability
+🔐 Application Security
+🤖 AI Engineering
+
+---
+
+## Let's Connect
+
 <p align="center">
-  <b>Building systems. Solving problems. Shipping products.</b>
+  <a href="https://www.pelumiisola.tech">🌐 Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/isola-pelumi">💼 LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/softwareengng">𝕏 X</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:pelumiisola87@gmail.com">📧 Email</a>
 </p>
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and connect with me.
+  <i>Build thoughtfully. Ship reliably.</i>
 </p>
